@@ -62,20 +62,20 @@
   },
   "dependencies": {
     "@feathers-plus/common": "0.1.0",
-    "@feathersjs/tools": "0.1.7",
+    "@feathersjs/tools": "0.2.3",
     "faker": "^4.1.0",
     "json-schema-deref-sync": "0.5.0",
     "json-schema-seeder": "^0.1.1",
-    "lodash": "4.17.10",
+    "lodash": "4.18.1",
     "lodash.merge": "4.6.1",
-    "mongoose": "5.2.8",
+    "mongoose": "6.13.9",
     "pluralize": "7.0.0",
-    "sequelizer": "1.1.3",
+    "sequelizer": "1.1.4",
     "snazzy": "7.1.1",
     "traverse": "0.6.6",
-    "update-notifier": "^2.5.0",
+    "update-notifier": "^7.3.1",
     "validate-npm-package-name": "^3.0.0",
-    "yeoman-generator": "3.1.1"
+    "yeoman-generator": "8.2.2"
   },
   "devDependencies": {
     "chai": "4.1.2",
@@ -83,12 +83,12 @@
     "istanbul": "1.1.0-alpha.1",
     "klaw-sync": "4.0.0",
     "mocha": "^5.2.0",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "request-promise": "4.2.2",
-    "semistandard": "12.0.1",
-    "vuepress": "0.14.2",
+    "semistandard": "17.0.0",
+    "vuepress": "1.9.10",
     "yeoman-assert": "3.1.1",
-    "yeoman-test": "1.9.1"
+    "yeoman-test": "11.5.2"
   },
   "generatedSemvers": {
     "@feathers-plus/graphql": "^1.9.0",
